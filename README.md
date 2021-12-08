@@ -1,2 +1,2 @@
 # Tabs
-Tabs combines with image and contens
+Tabs combines with image and contents
